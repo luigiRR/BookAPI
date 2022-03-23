@@ -1,0 +1,4 @@
+com/project/spring/model/Book.class
+com/project/spring/config/AppConfig.class
+com/project/spring/config/WebConfig.class
+com/project/spring/config/MyWebAppInitializer.class
